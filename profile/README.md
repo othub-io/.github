@@ -7,7 +7,7 @@ OTHub-io seeks to incorporate and augment the hallmark features that distinguish
 
 The following repositories represent the architecture diagram of OTHub-io:
 
-![Architecture Diagram](architectureDiagram.png)
+![Architecture Diagram](https://github.com/othub-io/.github/blob/main/profile/architectureDiagram.png)
 
 - OTHub-react: front end interface for OTHub-io
 - OTHub-runtime: back end infrastructure for OTHub-io
@@ -64,4 +64,4 @@ The following repositories represent the architecture diagram of OTHub-io:
 The renewed vision of OTHub-io, underpinned by principles of transparency, accessibility, user-friendliness, and asset publishing efficiency, is anticipated to stimulate vibrant activity within the DKG ecosystem. By enhancing the user interface and enriching the overall experience, OTHub-io is poised to attract a wider audience, from current network participants to newcomers exploring the OriginTrail Decentralized Network's potential. We are confident that with continued community support, OTHub-io will become an integral component in the DKG ecosystem. 
 _____
 
-OTHub is built and maintained by the Origintrail Community. [Disclaimer](https://github.com/othub-io/othub-io/blob/main/Disclaimer.md).
+OTHub is built and maintained by the Origintrail Community. [Disclaimer](https://github.com/othub-io/.github/blob/main/profile/DISCLAIMER.md).
