@@ -15,7 +15,7 @@ The following repositories represent the architecture diagram of OTHub-io:
 - OTHub-api: API runtime system
 - OTHub-bot: multi purpose bot runtime system
 ## Roadmap and Schedule
-### Milestone 1: Preliminary Phase
+### Milestone 1: Preliminary Phase (Q2 2023)
 (Requirement: 30k TRAC)
 - [x] Technical Planning & Infrastructure Development (Q2 2023)
   - [x] Comprehensive system architecture planification
@@ -30,25 +30,24 @@ The following repositories represent the architecture diagram of OTHub-io:
   - [x] Development of an asset page to view all published knowledge assets on the network with links to DKG Explorer and Subscan
   - [x] Implementation of Web3 Metamask support
 - [x] OTHub-io Beta Launch (Q2 2023)
-### Milestone 2: Asset Publisher Phase
+### Milestone 2: Asset Publisher Phase (Q4 2023)
 (Requirement: 50k TRAC)
 - [ ] Creation of Asset Publishers and Developers' OTHub Portal (Q3 2023)
   - [x] Open and Nodeless API publishing, supported on both testnet and mainnet
-  - [ ] Front end interface to allow app users to sign/cancel transactions queued by OTHub's API
-  - [ ] Front end "Magnify" interface for publishing, updating, transfering and other application SDK functionalities (getOwner, etc.)
+  - [x] Front end interface to allow app users to sign/cancel transactions queued by OTHub's API
+  - [x] Front end "Magnify" interface for publishing, updating, transfering and other application SDK functionalities (getOwner, etc.)
   - [ ] Asset publishing templates
   - [x] Postman API documentation to get, update and publish assets
   - [x] Unrestricted API keys generation for developer applications
   - [ ] Configurable API key parameters to govern API key usage
   - [ ] Trending and historical analytics to monitor API activity and transactions queued by OTHub's API
-  - [ ] App board to showcase users to various apps built with OTHub's API
-- [ ] OTHub Bot Development (Q3 2023)
+  - [x] App board to showcase users to various apps built with OTHub's API
+- [x] OTHub Bot Development (Q3 2023)
   - [x] Design a social platform bot to query networks and node statistics
-  - [ ] Easy access to OTHub API by allowing user to get, update, publish assets on the social platform
-  - [ ] Personalized notifications when asset is successfully published or require renewing
-- [ ] ChatDKG Demonstration (Aug 24, 2023)
-- [ ] Full Launch of OTHub-io (Oct 2023)
-### Milestone 3: Post-Launch Phase (Q4 2023)
+  - [x] Publish Knowledge Assets on OTHub Bot (testnet)
+- [x] ChatDKG Demonstration (Aug 24, 2023)
+- [ ] Full Launch of OTHub-io (Dec 2023)
+### Milestone 3: Post-Launch Phase (Q1 2024)
 (Requirement: 20k TRAC)
 - [ ] Ongoing Support, Updates, and Maintenance
   - [ ] Continuous development of new features based on user feedback
