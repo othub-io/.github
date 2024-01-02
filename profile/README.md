@@ -16,39 +16,40 @@ The following repositories represent the architecture diagram of OTHub-io:
 - OTHub-bot: multi purpose bot runtime system
 ## Roadmap and Schedule
 ### Milestone 1: Preliminary Phase (Q2 2023)
-(Requirement: 30k TRAC)
-- [x] Technical Planning & Infrastructure Development (Q2 2023)
+(Requirement: 20k TRAC)
+- [x] Technical Planning & Infrastructure Development
   - [x] Comprehensive system architecture planification
   - [x] Creation of GitHub repositories and framework
   - [x] Establishing the basic architecture of front end and back end modules
   - [x] Development of database management system
   - [x] Server and domain set up
   - [x] Full indexing and synchronization of OT Parachain
-- [x] Front End Development for Node Operator and Community (Q2 2023)
+- [x] Front End Development for Node Operator and Community
   - [x] Development of record keeping tables for all V6 nodes, trending data charts and network statistics
   - [x] Development of node operator dashboards, alerts and monitoring via Telegram ID and bot tokens
   - [x] Development of an asset page to view all published knowledge assets on the network with links to DKG Explorer and Subscan
   - [x] Implementation of Web3 Metamask support
-- [x] OTHub-io Beta Launch (Q2 2023)
+- [x] OTHub-io Beta Launch
 ### Milestone 2: Asset Publisher Phase (Q4 2023)
-(Requirement: 50k TRAC)
-- [ ] Creation of Asset Publishers and Developers' OTHub Portal (Q3 2023)
+(Requirement: 30k TRAC)
+- [x] Creation of Asset Publishers and Developers' OTHub Portal
   - [x] Open and Nodeless API publishing, supported on both testnet and mainnet
   - [x] Front end interface to allow app users to sign/cancel transactions queued by OTHub's API
   - [x] Front end "Magnify" interface for publishing, updating, transfering and other application SDK functionalities (getOwner, etc.)
-  - [ ] Asset publishing templates
+  - [x] Asset publishing templates
   - [x] Postman API documentation to get, update and publish assets
   - [x] Unrestricted API keys generation for developer applications
-  - [ ] Configurable API key parameters to govern API key usage
-  - [ ] Trending and historical analytics to monitor API activity and transactions queued by OTHub's API
+  - [x] Configurable API key parameters to govern API key usage
   - [x] App board to showcase users to various apps built with OTHub's API
-- [x] OTHub Bot Development (Q3 2023)
+- [x] OTHub Bot Development
   - [x] Design a social platform bot to query networks and node statistics
   - [x] Publish Knowledge Assets on OTHub Bot (testnet)
-- [x] ChatDKG Demonstration (Aug 24, 2023)
-- [ ] Full Launch of OTHub-io (Dec 2023)
-### Milestone 3: Post-Launch Phase (Q1 2024)
-(Requirement: 20k TRAC)
+- [x] ChatDKG Demonstration
+- [x] Full Launch of OTHub-io
+### Milestone 3: Post-Launch Phase (Q1 2024 onward)
+(Requirement: 50k TRAC)
+- [ ] Multichain integration (network statistics, analytics, API and asset creation)
+  - [ ] Gnosis (Q1 2024)
 - [ ] Ongoing Support, Updates, and Maintenance
   - [ ] Continuous development of new features based on user feedback
   - [ ] Build OTP Faucet
