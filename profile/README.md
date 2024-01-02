@@ -52,7 +52,6 @@ The following repositories represent the architecture diagram of OTHub-io:
   - [ ] Gnosis (Q1 2024)
 - [ ] Ongoing Support, Updates, and Maintenance
   - [ ] Continuous development of new features based on user feedback
-  - [ ] Build OTP Faucet
   - [ ] Phase 1 improvements (TRAC/USD conversion on network analytics, Geolocation map of nodes, user requested data points, etc.)
   - [ ] Guides (wallet mapping, node installation, maintenance, etc.)
 - [ ] Support and Integration of other DKG Projects
