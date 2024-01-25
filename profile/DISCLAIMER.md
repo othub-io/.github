@@ -18,4 +18,4 @@ This disclaimer is subject to change without notice, and changes will be posted 
 
 This Disclaimer is effective as of July 7, 2023.
 
-This website is not officially associated with the OriginTrail network or its operators. It's a community project developed and operated by independent developers.
+OTHub.io is not officially associated with the OriginTrail core development team, but have received a first-wave grant by the team.
