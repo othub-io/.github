@@ -53,10 +53,9 @@ The following repositories represent the architecture diagram of OTHub-io:
 - [ ] Ongoing Support, Updates, and Maintenance
   - [x] Continuous development of new features based on user feedback
   - [x] Phase 1 improvements (TRAC/USD conversion on network analytics, user requested data points, etc.)
-  - [ ] Guides (wallet mapping, node installation, etc.)
+  - [ ] Guides ([Postman instructions](https://www.postman.com/crimson-crescent-721757/workspace/othub-api) for OTHub API, video instruction for create/update/transfer assets)
 - [ ] Support and integration of other DKG Projects
   - [x] Providing support and an inventory page to TracVerse 
-  - [ ] Further integration with other platforms
 
 ## Projected Impact
 The renewed vision of OTHub-io, underpinned by principles of transparency, accessibility, user-friendliness, and asset publishing efficiency, is anticipated to stimulate vibrant activity within the DKG ecosystem. By enhancing the user interface and enriching the overall experience, OTHub-io is poised to attract a wider audience, from current network participants to newcomers exploring the OriginTrail Decentralized Network's potential. We are confident that with continued community support, OTHub-io will become an integral component in the DKG ecosystem. 
