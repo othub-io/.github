@@ -48,16 +48,15 @@ The following repositories represent the architecture diagram of OTHub-io:
 - [x] Full Launch of OTHub-io
 ### Milestone 3: Post-Launch Phase (Q1 2024 onward)
 (Requirement: 50k TRAC)
-- [ ] Multichain integration (network statistics, analytics, API and asset creation)
-  - [ ] Gnosis (Q1 2024)
+- [x] Multichain integration (network statistics, analytics, API and asset creation)
+  - [x] Gnosis (Q1 2024)
 - [ ] Ongoing Support, Updates, and Maintenance
-  - [ ] Continuous development of new features based on user feedback
-  - [ ] Phase 1 improvements (TRAC/USD conversion on network analytics, Geolocation map of nodes, user requested data points, etc.)
-  - [ ] Guides (wallet mapping, node installation, maintenance, etc.)
-- [ ] Support and Integration of other DKG Projects
-  - [ ] Incorporating projects such as TracVerse into the OTHub Portal 
-  - [ ] Assisting projects like Purr-fectly Knowledgable Kittys web-based gaming 
-  - [ ] Further integration with current and future platforms such as DKG Explorer and Chat DKG
+  - [x] Continuous development of new features based on user feedback
+  - [x] Phase 1 improvements (TRAC/USD conversion on network analytics, user requested data points, etc.)
+  - [ ] Guides (wallet mapping, node installation, etc.)
+- [ ] Support and integration of other DKG Projects
+  - [x] Providing support and an inventory page to TracVerse 
+  - [ ] Further integration with other platforms
 
 ## Projected Impact
 The renewed vision of OTHub-io, underpinned by principles of transparency, accessibility, user-friendliness, and asset publishing efficiency, is anticipated to stimulate vibrant activity within the DKG ecosystem. By enhancing the user interface and enriching the overall experience, OTHub-io is poised to attract a wider audience, from current network participants to newcomers exploring the OriginTrail Decentralized Network's potential. We are confident that with continued community support, OTHub-io will become an integral component in the DKG ecosystem. 
