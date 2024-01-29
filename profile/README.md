@@ -50,11 +50,11 @@ The following repositories represent the architecture diagram of OTHub-io:
 (Requirement: 50k TRAC)
 - [x] Multichain integration (network statistics, analytics, API and asset creation)
   - [x] Gnosis (Q1 2024)
-- [ ] Ongoing Support, Updates, and Maintenance
+- [x] Ongoing Support, Updates, and Maintenance
   - [x] Continuous development of new features based on user feedback
   - [x] Phase 1 improvements (TRAC/USD conversion on network analytics, user requested data points, etc.)
-  - [ ] Guides ([Postman instructions](https://www.postman.com/crimson-crescent-721757/workspace/othub-api) for OTHub API, video instruction for create/update/transfer assets)
-- [ ] Support and integration of other DKG Projects
+  - [x] Guides ([Postman instructions](https://www.postman.com/crimson-crescent-721757/workspace/othub-api) for OTHub API, video instruction for create/update/transfer assets)
+- [x] Support and integration of other DKG Projects
   - [x] Providing support and an inventory page to TracVerse 
 
 ## Projected Impact
