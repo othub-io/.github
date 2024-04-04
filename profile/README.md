@@ -49,13 +49,17 @@ The following repositories represent the architecture diagram of OTHub-io:
 ### Milestone 3: Post-Launch Phase (Q1 2024 onward)
 (Requirement: 50k TRAC)
 - [x] Multichain integration (network statistics, analytics, API and asset creation)
-  - [x] Gnosis (Q1 2024)
+  - [x] Gnosis integration (Q1 2024)
 - [x] Ongoing Support, Updates, and Maintenance
   - [x] Continuous development of new features based on user feedback
   - [x] Phase 1 improvements (TRAC/USD conversion on network analytics, user requested data points, etc.)
-  - [x] Guides ([Postman instructions](https://www.postman.com/crimson-crescent-721757/workspace/othub-api) for OTHub API, video instruction for create/update/transfer assets)
-- [x] Support and integration of other DKG Projects
-  - [x] Providing support and an inventory page to TracVerse 
+  - [x] [Postman instructions](https://www.postman.com/crimson-crescent-721757/workspace/othub-api) for OTHub API
+  - [x] [Video instructions](https://twitter.com/OTHub_io/status/1752050244286562348) for create/update/transfer assets and for DKG apps
+- [x] Support and integration of other community Projects
+  - [x] Providing support and an inventory page to TracVerse
+  - [x] Telegram bot with OTHub API by Calvin
+- [x] OTHub nodes
+  - [x] Support the DKG infrastructure by running OTHub nodes
 
 ## Projected Impact
 The renewed vision of OTHub-io, underpinned by principles of transparency, accessibility, user-friendliness, and asset publishing efficiency, is anticipated to stimulate vibrant activity within the DKG ecosystem. By enhancing the user interface and enriching the overall experience, OTHub-io is poised to attract a wider audience, from current network participants to newcomers exploring the OriginTrail Decentralized Network's potential. We are confident that with continued community support, OTHub-io will become an integral component in the DKG ecosystem. 
